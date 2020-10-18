@@ -1,3 +1,4 @@
-.idea/
-.svn/
+.idea
+.idea/*
+.svn
 !.gitingore

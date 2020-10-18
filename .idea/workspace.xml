@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05d697ab-b2bb-49a7-b894-3ccd37129c84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitingore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curl_img.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curl_post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitingore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitingore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,22 +43,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603019830995</updated>
-      <workItem from="1603019832118" duration="8924000" />
+      <workItem from="1603019832118" duration="9137000" />
     </task>
+    <task id="LOCAL-00001" summary="完成curl的相关用法">
+      <created>1603035541404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603035541404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成curl的相关用法" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成curl的相关用法" />
   </component>
   <component name="WindowStateProjectService">
     <state x="695" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603034908902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="695" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603034908902" />
+    <state x="558" y="85" key="CommitChangelistDialog2" timestamp="1603035539637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603035539637" />
     <state x="776" y="442" key="NewPhpFileDialog" timestamp="1603029932333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="776" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603029932333" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603035688828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603035688828" />
+    <state x="764" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603035655653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603035655653" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603020438806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
